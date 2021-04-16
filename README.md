@@ -1,6 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/31408356/113040620-b7a06080-9134-11eb-98d2-96a9cf3fdd1c.png" width="200" height="200" alt="jo" align="left">
-
 ### 🌎 Hello, World!!! 
 🖖 Saudações, sou Jonatan Abade
 
