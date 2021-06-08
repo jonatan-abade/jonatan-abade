@@ -1,12 +1,11 @@
-### 🌎 Hello, World!!! 
-🖖 Saudações, sou Jonatan Abade
+### Hello, World 🌎 
+🖖 Greetings, my name is Jonatan Abade, I'm 21 years old and I'm a full stack web developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jonatan-abade/)
 
-### Sobre mim
-> 📚 Graduando em Sistemas para internet (TSI - IFMS)
+### About me
+ 📚 Sistemas para internet (TSI - IFMS)
 
-> 💻 Há um ano atuando com desenvolvimento web 
+ 💻 For over 2 years working with web development 
 
->🚀 Sempre estudando e me desafiando no mundo do front e backend
-   
+ 🚀 Always studying, and challenging myself in the front and backend world
