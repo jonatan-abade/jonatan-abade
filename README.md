@@ -9,3 +9,7 @@
  💻 For over 2 years working with web development 
 
  🚀 Always studying, and challenging myself in the front and backend world
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-abade&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatan-abade&layout=compact&theme=radical)](https://github.com/jonatan-abade/github-readme-stats)
