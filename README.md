@@ -23,11 +23,3 @@
 ![materialize-css](https://user-images.githubusercontent.com/31408356/122583720-91011000-d027-11eb-983a-bce09ad78dea.png)
 ![postgresql](https://user-images.githubusercontent.com/31408356/122583730-92323d00-d027-11eb-993b-3ebcbad8eb6e.png)
 ![jquery](https://user-images.githubusercontent.com/31408356/122583716-90687980-d027-11eb-89e1-a473574c270c.png)
-
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jonatan-abade&show_icons=true&theme=radical"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatan-abade&layout=compact&theme=radical"/></td>
-  </tr>
-</table>
