@@ -1,4 +1,4 @@
-<h1 align="center">Fala dev! 👋 Eu sou o Jonatan</h1>
+<h1 align="center">Olá! 👋 Eu sou o Jonatan</h1>
 
 <p align="center">
   💻 Desenvolvedor Full Stack <br/>
