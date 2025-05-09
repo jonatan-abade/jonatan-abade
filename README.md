@@ -1,25 +1,56 @@
-### Hello, World 🌎 
-🖖 Greetings, my name is Jonatan Abade, I'm 27 years old and I'm a full stack web developer.
+<h1 align="center">Fala dev! 👋 Eu sou o Jonatan</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jonatan-abade/)
+<p align="center">
+  💻 Desenvolvedor Full Stack <br/>
+  ⚡ Transformo ideias em soluções reais <br/>
+  🌍 Remoto | CLT | PJ | Freelancer
+</p>
 
-### About me
- 📚 Sistemas para internet (TSI - IFMS)
+---
 
- 💻 For over 5 years working with web development 
+## 🚀 Sobre mim
 
- 🚀 Always studying, and challenging myself in the front and backend world
+Sou um desenvolvedor full stack apaixonado por resolver problemas com código.  
+Trabalho com **Laravel** no backend e **Nuxt / Vue / React Native (Expo)** no frontend.  
+Gosto de escrever código limpo, seguir boas práticas e entregar valor de forma prática e eficiente.
 
-![html5](https://user-images.githubusercontent.com/31408356/122583712-8fcfe300-d027-11eb-8e86-7da5e274ea9f.png)
-![css3](https://user-images.githubusercontent.com/31408356/122583705-8f374c80-d027-11eb-923a-698b2e7e232e.png)
-![javascript](https://user-images.githubusercontent.com/31408356/122583714-90687980-d027-11eb-924d-7f5d3da2dc01.png)
-![php](https://user-images.githubusercontent.com/31408356/122583725-9199a680-d027-11eb-99af-c67af5211af7.png)
-![git](https://user-images.githubusercontent.com/31408356/122583711-8fcfe300-d027-11eb-94a4-2c848165a4e4.png)
-![laravel](https://user-images.githubusercontent.com/31408356/122583718-91011000-d027-11eb-9255-a8472ada3fdb.png)
-![vuejs](https://user-images.githubusercontent.com/31408356/122583734-92cad380-d027-11eb-941d-1d9b88102bc1.png)
-![tailwind](https://user-images.githubusercontent.com/31408356/122583732-92323d00-d027-11eb-9230-7f5505590898.png)
-![mysql](https://user-images.githubusercontent.com/31408356/122583723-9199a680-d027-11eb-89e3-f0a4d22f516d.png)
-![bootstrap](https://user-images.githubusercontent.com/31408356/122583701-8e9eb600-d027-11eb-8557-d1b0b42c4bb1.png)
-![materialize-css](https://user-images.githubusercontent.com/31408356/122583720-91011000-d027-11eb-983a-bce09ad78dea.png)
-![postgresql](https://user-images.githubusercontent.com/31408356/122583730-92323d00-d027-11eb-993b-3ebcbad8eb6e.png)
-![jquery](https://user-images.githubusercontent.com/31408356/122583716-90687980-d027-11eb-89e1-a473574c270c.png)
+---
+
+## 🛠️ Tecnologias que uso
+
+### 🧠 Backend
+- ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=flat&logo=mysql&logoColor=white)
+- Sanctum / APIs REST
+
+### 💅 Frontend
+- ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+- shadcn-vue / SSR / Tailwind CSS
+
+### ⚙️ Ferramentas e práticas
+- Git / GitHub
+- Docker (em evolução 🚧)
+- Boas práticas de Clean Code
+- Testes, versionamento e organização
+
+---
+
+## 🌱 No momento...
+- Refatorando projetos pessoais
+- Buscando oportunidades remotas (CLT, PJ ou freelance)
+- Me aprofundando em TDD e arquitetura limpa
+
+---
+
+## 📫 Vamos nos conectar?
+
+- [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/jonatan-abade/))  
+- Portfólio: [meusite.com.br](https://www.meusite.com.br](https://jonatan-abade.github.io/)  
+- Email: `jonatanabade@gmail.com`
+
+---
+
+<p align="center">✨ Obrigado por passar por aqui! Bora codar! 🚀</p>
