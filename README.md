@@ -47,8 +47,8 @@ Gosto de escrever código limpo, seguir boas práticas e entregar valor de forma
 
 ## 📫 Vamos nos conectar?
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/jonatan-abade/))  
-- Portfólio: [meusite.com.br](https://www.meusite.com.br](https://jonatan-abade.github.io/)  
+- [LinkedIn](https://www.linkedin.com/in/jonatan-abade/)  
+- Portfólio: [jonatan-abade.github.io](https://jonatan-abade.github.io/)  
 - Email: `jonatanabade@gmail.com`
 
 ---
